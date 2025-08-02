@@ -1,6 +1,6 @@
 # Masra, your hiking companion
 
-To follow alone with our Figma demonstration on the video, please click [here](https://www.figma.com/proto/PHkGaf2qEcP1Oeo82zEL5a/Final-Version?node-id=2001-570)!
+To follow along with our Figma demonstration on the video, please click [here](https://www.figma.com/proto/PHkGaf2qEcP1Oeo82zEL5a/Final-Version?node-id=2001-570)!
 
 ## Preface
 
